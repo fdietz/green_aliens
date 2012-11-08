@@ -1,0 +1,28 @@
+doctype 5
+html
+  head
+    title= title
+    meta(charset="UTF-8")
+    link(rel="stylesheet", href="http://fonts.googleapis.com/css?family=Unica+One")
+    link(rel='stylesheet', href='/stylesheets/style.css')
+
+  body
+    header
+      .container
+        h1 Green Aliens - from outer space
+        h2 HTML5 gaming experiment
+
+        section#downloads
+          a(href="https://github.com/fdietz/green_aliens/zipball/master", class="btn") Download as .zip
+          a(href="https://github.com/fdietz/green_aliens/tarball/master", class="btn") Download as .tar.gz
+          a(href="https://github.com/fdietz/green_aliens", class="btn btn-github") View on GitHub
+            span.icon
+
+    .container
+      block content
+
+    script(src="javascripts/lib/underscore.js", type="text/javascript")
+    script(src="javascripts/lib/jquery.js", type="text/javascript")
+    script(src="javascripts/util.js", type="text/javascript")
+    script(src="javascripts/engine.js", type="text/javascript")
+    script(src="javascripts/game.js", type="text/javascript")
