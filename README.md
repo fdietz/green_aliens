@@ -4,6 +4,18 @@ Use arrow keys to navigate and space to fire missiles. Works best with Chrome an
 
 Checkout the [heroko demo](http://green-aliens.herokuapp.com/)!
 
+## Get it running
+
+Clone the repository and install the npm packages:
+
+    npm install
+
+now start the server
+
+    npm start
+
+and open in your browser [http://localhost:3000](http://localhost:3000).
+
 ## Credits
 Most of the code is a derivate work based on [Pascal Rettig's](https://github.com/cykod) book [Professional HTML5 Mobile Game Development](http://www.wrox.com/WileyCDA/WroxTitle/Professional-HTML5-Mobile-Game-Development.productCd-1118301323.html). I can highly recommend it to everyone looking into HTML5 game development. The explosion assets are also taken from the book's samples.
 
