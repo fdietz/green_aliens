@@ -1,6 +1,6 @@
 # Green Aliens - from outer space
 
-Use arrow keys to navigate and space to fire missiles. Works best with Chrome and Safari. Firefox can't play sound. Not tested in IE.
+Use arrow keys to navigate and space to fire missiles. Works best with latest Chrome, Safari and Firefox. Not tested in IE.
 
 Checkout the [heroko demo](http://green-aliens.herokuapp.com/)!
 
